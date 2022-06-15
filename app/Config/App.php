@@ -24,7 +24,7 @@ class App extends BaseConfig
      *
      * @var string
      */
-    public $baseURL = 'https://marcosenpai.github.io/ci/';
+    public $baseURL = 'https://marcosenpai.github.io';
 
     /**
      * --------------------------------------------------------------------------
